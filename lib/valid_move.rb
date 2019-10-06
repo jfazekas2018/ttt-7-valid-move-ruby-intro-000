@@ -9,5 +9,5 @@ def position_taken?(board, index)
     value = ""
   end
 
-  return value.strip !- ""
+  return value.strip != ""
 end
